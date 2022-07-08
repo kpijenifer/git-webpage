@@ -92,7 +92,7 @@
     padding: 90px;
 }
 .all{
-    background-image:url(../photo.jpg);
+    background-image:url(../git-webpage/logo/hero.jpg);
 }
 .overall{
     background: rgba(45, 53, 69, 0.7);
@@ -231,6 +231,9 @@ font-size: 20px;
    
  
  }
+ .service{
+    height: 800px;
+ }
  .lodo h1{
     font-size: 32px;
     font-weight: bold;
@@ -260,8 +263,8 @@ font-size: 20px;
     
  }
  .sed{
-     height: 200px;
-    width: 200px; 
+      height: 200px; 
+     width: 200px;  
     margin-top: 100px;
      margin-left: 120px; 
      margin-right: 20px; 
@@ -497,6 +500,167 @@ font-size: 20px;
 .sed:hover .background6{
     background: #11dbcf;
 }
+.call{
+    
+    text-align: center;
+    height: 300px;
+    width: 1100x;
+    
+    background-color: #414c64;
+    
+}
+ .action h1{
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+     padding  : 20px; 
+    margin-top: 50px;
+    
+    
+} 
+.action p{
+    font-size: 18px;
+    color: white;
+    margin-top: 5px;
+}
+/* .to{
+    margin-top: 50px;
+} */
+.button{
+     
+    height: 25px;
+    width: 200px;
+
+    /* text-align: center; */
+    color: white;
+    
+
+    
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 25px;
+    transition: 0.5s;
+    margin-top: 30px;
+     border: 2px solid #ffc107; 
+    
+    
+}
+.button h3{
+    margin-top: 6px;
+}
+.action{
+    padding: 2px;
+}
+.projects{
+    width: 100%;
+    height: 800px;
+    outline: 2px solid red;
+}
+.monials{
+    text-align: center;
+   
+    padding-top: 10px;
+}
+.monials p{
+      margin-top: 10px;
+      font-family: "Open Sans", sans-serif;
+      text-align: center;
+       padding-bottom: 100px; 
+      margin-bottom: 0;
+      font-size: 14px;
+      color: #aab3c7;
+     
+}
+.monials h1{
+    font-size: 32px;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      position: relative;
+      
+      
+    
+    
+}
+.testmonials{
+    display: flex;
+    justify-content: space-evenly;
+}
+.quid{
+    font-style: italic;
+    margin: 0 15px 0 15px;
+    padding: 20px 20px 60px 20px;
+    background: #fafafc;
+    position: relative;
+    border-radius: 6px;
+    position: relative;
+    width: 300px;
+    font-size: 20px;
+}
+.cillu{
+    font-style: italic;
+    margin: 0 15px 0 15px;
+    padding: 20px 20px 60px 20px;
+    background: #fafafc;
+    position: relative;
+    border-radius: 6px;
+    position: relative;
+    width: 300px;
+    font-size: 20px;
+}
+.purus{
+    font-style: italic;
+    margin: 0 15px 0 15px;
+    padding: 20px 20px 60px 20px;
+    background: #fafafc;
+    position: relative;
+    border-radius: 6px;
+    position: relative;
+    width: 300px;
+    font-size: 20px;
+}
+ .icofont-quote-left{
+    color: #ffe7a0;
+    font-size: 26px;
+   
+    
+}
+.icofont-quote-right{
+    color: #ffe7a0;
+    font-size: 26px;
+}
+.export{
+    height: 90px;
+    width: 90px;
+    border-radius: 55%;
+    margin-top: 30px;
+    
+}
+.quid h2{
+    margin-top: 20px;
+}
+.cillu h2{
+    margin-top: 20px;
+}
+.purus h2{
+    margin-top: 20px;
+}
+.quid  p{
+    margin-top: 7px;
+}
+.cillu  p{
+    margin-top: 7px;
+}
+.purus p{
+    margin-top: 7px;
+}
+
+
 
 
 
