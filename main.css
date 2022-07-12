@@ -1,7 +1,18 @@
 
+.full-page{
+    margin: auto;
+    width: 1300px;
+}
+.all{
+    outline: 2px solid red;
+    width: 1300px;
+}
 .container{
-    width: 100%;
+    /* width: 100%; */
     
+    /* margin: auto; */
+}
+.overall{
     margin: auto;
 }
 .style{
@@ -186,6 +197,12 @@ font-size: 20px;
     padding: 30px;
     
 }
+.provident{
+    outline: 2px solid red;
+}
+.lilly{
+    margin: auto;
+}
 .color p{
     margin-top: 15px;
     font-size: 15px;
@@ -233,7 +250,9 @@ font-size: 20px;
  }
  .service{
     height: 800px;
+    outline: 2px solid red;
  }
+ 
  .lodo h1{
     font-size: 32px;
     font-weight: bold;
@@ -262,6 +281,8 @@ font-size: 20px;
     
     
  }
+ 
+ 
  .sed{
       height: 200px; 
      width: 200px;  
@@ -432,11 +453,13 @@ font-size: 20px;
     margin-bottom: 100px;
     height: 450px;
     /* width: 1300px; */
+    margin: auto;
  }
  .service{
     margin-bottom: 100px;
     /* height: 1000px; */
     /* width:1300px; */
+    /* margin: auto; */
     
  }
  .background1 i{
@@ -507,7 +530,12 @@ font-size: 20px;
     width: 1100x;
     
     background-color: #414c64;
+    outline: 2px solid red;
+
     
+}
+.action{
+    margin: auto;
 }
  .action h1{
     color: white;
@@ -558,7 +586,12 @@ font-size: 20px;
 .projects{
     width: 100%;
     height: 800px;
+    outline: 2px solid red;
 
+
+}
+.test{
+    margin: auto;
 }
 .monials{
     text-align: center;
@@ -676,11 +709,16 @@ font-size: 20px;
 .round:hover{
     background-color: yellow;
 }
-.container{
-    width: 100%;
-    height: 800px;
+.container8{
+    width: 1300px;
+    /* height: 1500px; */
+    outline: 2px solid red;
+
 
     
+}
+.portiflo{
+    margin: auto;
 }
 .pricing{
     text-align: center;
@@ -724,13 +762,15 @@ font-size: 20px;
 }
 
 .web{
-    margin-left: 80px;
+    /* margin-left: 80px; */
     
     width: 350px;
     height: 330px;  
-    margin-top: 100px; 
+    /* margin-top: 100px;  */
     position: relative;
     overflow: hidden;
+    /* padding: 0px 20px 0px 20px ; */
+
     
 }
 /* .creative-app{
@@ -757,6 +797,9 @@ font-size: 20px;
     
     
     
+    
+}
+.image img{
     
 }
 /* .web.image img{
@@ -786,12 +829,17 @@ font-size: 20px;
 }
 .image.img{
     transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    height: 270px;
+    width: 380px;
 }
+
 .img-9{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-evenly;
     flex-wrap: wrap;
-    padding: 25px;
+    /* padding: 25px; */
+    /* padding: 20px; */
+    
 }
 .commodi{
     margin-left: 10px;
@@ -799,5 +847,182 @@ font-size: 20px;
 .creative{
     margin-right: 20px;
 }
+.para-graph{
+    text-align: center;
+    margin-top: 10px;
+}
+.para-graph h1{
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #414c64;
+    font-family: "Raleway", sans-serif;
+}
+.para-graph p{
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #aaaaaa;
+}
+
+
+
+
+/*container7*/
+.anderson{
+     height: 500px;
+    /* width: 1300px; */
+    outline: 2px solid red;
+    
+     
+}
+.magnam{
+   margin: auto;
+}
+.amanda h1{
+    
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+
+}
+.amanda p{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 14px;
+    color: #aab3c7;
+}
+.img-white{
+    padding: 20px;
+}
+.img-icon{
+    height: 60px;
+    width: 300px;
+    
+    display: flex;
+  
+    justify-content: center;
+    position: absolute;
+    bottom: 0px;
+    background: rgba(255, 255, 255, 0.85);
+    opacity: 0;
+    
+}
+.img-icon i{
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
+    
+
+.img-block{
+   position: relative;
+}
+.img-white:hover .img-icon{
+     opacity: 1; 
+} 
+.walter{
+    display: flex;
+    justify-content: center;
+    outline: 2px solid red;
+}.pricing-heading{
+    height: 700px;
+    width: 1300px;
+    outline: 2px solid red;
+    
+}
+.free{
+    margin: auto;
+}
+.business{
+    text-align: center;
+
+
+}
+.business h1{
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    
+}
+.business p{
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #aab3c7;
+}
+.ultimate-pricing{
+    height: 400px;
+    width: 325px;
+    outline: 2px solid red;
+    position: relative;
+    
+}
+.ultimate-pricing h1{
+         text-align: center;
+}
+.ultimate-pricing p{
+    text-align: center;
+    margin-top: 50px;
+}
+.ultimate-pricing p sup{
+    
+    position: absolute;
+    left: 115px;
+    top: 57px;
+    font-size: 20px;
+    color: #ffc107;
+
+}
+.developer-pricing{
+    margin-top: 70px;
+}
+.ultimate-pricing p {
+
+    font-size: 36px;
+    color: #ffc107;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+
+}
+.ultimate-pricing p span{
+    color: #848484;
+    font-size: 14px;
+
+}
+.business h1{
+    margin: -20px -20px 20px -20px;
+    padding: 20px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #777777;
+    background: #f8f8f8;
+}  
+.sup-pricing p{
+    font-size: 12px;
+    color: #444444;
+     line-height: 40px; 
+    
+}
+.line{
+    text-decoration: line-through;
+    
+}
+
+
+
+
+
+
 
 
