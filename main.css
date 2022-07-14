@@ -4,7 +4,7 @@
     width: 1300px;
 }
 .all{
-    outline: 2px solid red;
+
     width: 1300px;
 }
 .container{
@@ -198,7 +198,7 @@ font-size: 20px;
     
 }
 .provident{
-    outline: 2px solid red;
+    
 }
 .lilly{
     margin: auto;
@@ -250,7 +250,7 @@ font-size: 20px;
  }
  .service{
     height: 800px;
-    outline: 2px solid red;
+
  }
  
  .lodo h1{
@@ -530,7 +530,7 @@ font-size: 20px;
     width: 1100x;
     
     background-color: #414c64;
-    outline: 2px solid red;
+    
 
     
 }
@@ -586,7 +586,7 @@ font-size: 20px;
 .projects{
     width: 100%;
     height: 800px;
-    outline: 2px solid red;
+    
 
 
 }
@@ -600,7 +600,7 @@ font-size: 20px;
 }
 .monials p{
       margin-top: 10px;
-      font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
       text-align: center;
        padding-bottom: 100px; 
       margin-bottom: 0;
@@ -712,7 +712,7 @@ font-size: 20px;
 .container8{
     width: 1300px;
     /* height: 1500px; */
-    outline: 2px solid red;
+
 
 
     
@@ -872,7 +872,7 @@ font-size: 20px;
 .anderson{
      height: 500px;
     /* width: 1300px; */
-    outline: 2px solid red;
+    
     
      
 }
@@ -961,9 +961,9 @@ font-size: 20px;
     color: #aab3c7;
 }
 .ultimate-pricing{
-    height: 400px;
-    width: 325px;
-    outline: 2px solid red;
+    height: 450px;
+     width: 325px; 
+    /* outline: 2px solid red; */
     position: relative;
     
 }
@@ -985,6 +985,9 @@ font-size: 20px;
 }
 .developer-pricing{
     margin-top: 70px;
+    /* display: flex;
+    justify-content: space-between; */
+  
 }
 .ultimate-pricing p {
 
@@ -1008,16 +1011,142 @@ font-size: 20px;
     color: #777777;
     background: #f8f8f8;
 }  
-.sup-pricing p{
-    font-size: 12px;
+.sup-pricing ul{
+    font-size: 18px;
     color: #444444;
-     line-height: 40px; 
+    text-align: center;
+    list-style: none;
+    line-height: 30px;
+    
+
     
 }
 .line{
     text-decoration: line-through;
     
 }
+.pricing-end{
+    display: flex;
+    justify-content: space-between;
+}
+.end-end{
+
+    margin-top: 50px;
+    
+    /* width: 100px; */
+    /* outline: 2px solid red;  */
+    
+    align-items: center;
+    display: inline-bloc
+    k;
+    text-decoration: none;
+     
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 12px;
+    transition: none;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    transition: 0.3s;
+     border: 2px solid #c8cedc;
+    color: #6c7c9f;
+
+    }
+    .free-end .end-end{
+        background: #ffc107;
+     border: 2px solid #ffc107;
+    }
+    .free-end a:hover{
+         background-color: lightgray
+    }
+    .first-end{
+          background-color: #ffc107;
+            width: 240px;
+            height: 40px;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            margin-left: 30px;
+          
+          
+    /* font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 10px */
+
+    }
+    .first-end h1{
+        /* margin-top: 15px */
+    }
+    .diamond{
+        height:60px;
+    }
+    .frequecy{
+        height: 900px;
+        width: 1300px;
+        outline: 2px solid red;
+     
+    }
+    .frequecy-syestem{
+        margin: auto;
+    }
+    .syestem{
+        text-align: center;
+    }
+    .syestem h1{
+       margin-top: 20px;
+       font-size: 32px;
+       font-weight: bold;
+       font-family: "Raleway", sans-serif;
+       color: #444444;
+
+    }
+    .syestem p{
+        margin-top: 20px;
+        margin-bottom: 0;
+        font-size: 14px;
+        color: #aab3c7;
+    }
+    .icon-text{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .syestem-frequecy{
+        height: 400px;
+        width: 700px;
+        margin-left: 120px;
+        line-height: 90px;
+        outline: 2px soild red;
+        padding: 20px;
+    }
+    .icon-text p i{
+     margin-right: 10px;
+     color: #ffc107;
+     text-decoration: none;
+         /* display: block;
+
+        
+      font-family: "Poppins", sans-serif;
+      font-size: 16px;
+line-height: 24px;
+font-weight: 500; */}
+
+    
+    
+
+    
+    
+
+
+    
+    
+
+
+
+
 
 
 
