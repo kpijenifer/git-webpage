@@ -1084,9 +1084,9 @@ font-size: 20px;
         height:60px;
     }
     .frequecy{
-        height: 900px;
+        /* height: 900px;
         width: 1300px;
-        outline: 2px solid red;
+        outline: 2px solid red; */
      
     }
     .frequecy-syestem{
@@ -1112,12 +1112,17 @@ font-size: 20px;
     .icon-text{
         display: flex;
         justify-content: space-between;
+        height: 50px;
+        width: 1000px;
+        padding: 10px;
+        margin-bottom: 20px;
+        background: rgb(252, 245, 245);
 
     }
     .syestem-frequecy{
         height: 400px;
-        width: 700px;
-        margin-left: 120px;
+        width: 800px;
+        margin-left: 200px;
         line-height: 90px;
         outline: 2px soild red;
         padding: 20px;
@@ -1132,11 +1137,171 @@ font-size: 20px;
       font-family: "Poppins", sans-serif;
       font-size: 16px;
 line-height: 24px;
-font-weight: 500; */}
+font-weight: 500; */
+   height: 50px;
+
+}
+.icon-text:hover p{
+    color: #ffc107;
+}
+.contact-contact{
+    margin-top: 50px;
+    /* height: 500px; */
+    width: 1300px;
+
+
+}
+.contact-address{
+    margin: auto;
+}
+.address-our{
+    text-align: center;
+}
+.address-our p{
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #aab3c7;
+}
+
+.address-our h1{
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.us-email{
+    height: 200px;
+    /* width: 650px; */
+     display: flex;
+
+    margin-top: 60px;
+}
+.input-type-free{
+    height: 100px;
+
+    width: 650px;
+    text-align: center;
+}
+.lkj{
+      display: flex;
+}
+.input-type{
+     height: 200px;
+     width: 325px;
+     text-align: center; 
+     margin-top: 60px;  
+}
+.input-type-free h1{
+    font-size: 20px;
+    color: #777777;
+    font-weight: 700;
+     margin: 30px 0;
+     font-family: "Open Sans", sans-serif; 
+}
+.input-type p{
+    margin-top: 20px;
+
+}
+.input-type-free p{
+    padding: 0;
+    /* line-height: 24px; */
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #444444;
+    text-align: center;
+}
+.input-type h1{
+    font-size: 20px;
+    color: #777777;
+    font-weight: 700;
+    margin: 10px 0;
+    font-family: "Open Sans", sans-serif;
+}
+.input-type p{
+    padding: 0;
+     /* line-height: 24px;  */
+    font-size: 14px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #444444;
+    
+}
+.subject-message {
+    display: flex;
+    /* margin-right: 50px; */
+    justify-content: space-between;
+}
+.holder-place{
+    height: 300px;
+    /* width: 1000px; */
+    width: 650px;
+    padding: 30px;
+
+}
+.type-input-free{
+    display: flex;
+    justify-content: space-between;
+}
+.holder-place input  {
+    width: 500px;
+}
+.subject-message input{
+    width: 234px;
+    margin-right: 20px;
+}
+.button-send-message{
+    text-align: center;
+    margin-right: 150px;
+    margin-top: 30px;
+    text-decoration: none;
+    /* background: #ffc107;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px; */
+
+}
+.button-send-message button{
+
+background: #ffc107;
+border: none;
+height: 50px;
+width: 200px;
+border-radius: 50px;
+color: #fff;
+
+
+font-size: 16px;
+
+}
+.button-send-message button:hover{
+    
+background: #f3c846;
+}
+.icon-back{
+    height:50px ;
+    width: 50px;
+    border-radius: 50px;
+    outline: 2px solid red;
+    position: relative;
+    
+}
+.icon-back i{
+    position: absolute;
+    margin-right: 5px;
+     
+    
+}
+
+
+
+
 
     
     
-
     
     
 
