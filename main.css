@@ -93,8 +93,11 @@
     margin-top: 20px;
 }
 .mobile :hover{
-    background-color: yellow;
+    color: yellow;
 
+}
+.mobile{
+    display: flex;
 }
 .get{
     margin-top: 20px;
@@ -155,8 +158,9 @@
 }
 .red{
     height: 100px;
-    width: 300px;
+    width: 250px;
     margin-bottom: 30px;
+    
 }
 .red p{
     font-size: 15px;
@@ -931,11 +935,11 @@ font-size: 20px;
 .walter{
     display: flex;
     justify-content: center;
-    outline: 2px solid red;
+    
 }.pricing-heading{
     height: 700px;
     width: 1300px;
-    outline: 2px solid red;
+    
     
 }
 .free{
@@ -978,7 +982,7 @@ font-size: 20px;
     
     position: absolute;
     left: 115px;
-    top: 57px;
+    top: 96px;
     font-size: 20px;
     color: #ffc107;
 
@@ -1124,7 +1128,7 @@ font-size: 20px;
         width: 800px;
         margin-left: 200px;
         line-height: 90px;
-        outline: 2px soild red;
+        
         padding: 20px;
     }
     .icon-text p i{
@@ -1190,7 +1194,7 @@ font-weight: 500; */
       display: flex;
 }
 .input-type{
-     height: 200px;
+      height: 200px; 
      width: 325px;
      text-align: center; 
      margin-top: 60px;  
@@ -1316,9 +1320,9 @@ background: #f3c846;
         font-size: 31px;
 }
 .container11{
-    height: 500px;
+     height: 350px; 
     width: 1300px;
-    outline: 2px solid red;
+
 
 }
 
@@ -1329,7 +1333,7 @@ background: #f3c846;
 .max-height{
    height: 500px; 
    width: 325px;
-   outline: 2px solid red;
+   
    text-align: center;
 
    
@@ -1367,7 +1371,7 @@ background: #f3c846;
     line-height: 40px;
     height: 500px;
     width: 325px;
-    outline: 2px solid red;
+    
     
 
 }
@@ -1380,7 +1384,7 @@ background: #f3c846;
     text-align: center;
 }
 .min-height p{
-    margin-left: 120px;
+    margin-left: 85px;
 }
 .min-height p a:hover{
     color: #ffc107;
@@ -1388,6 +1392,125 @@ background: #f3c846;
 .min-height p i{
     color: #ffc107;
 }
+.media-width-fixel{
+    /* text-align: center; */
+    line-height: 40px;
+    height: 500px;
+    width: 325px;
+    
+    
+
+}
+.media-width-fixel p a{
+    text-decoration: none;
+    color: black;
+   
+}
+.media-width-fixel h1{
+    text-align: center;
+}
+.media-width-fixel p{
+     margin-left:80px; 
+}
+.media-width-fixel p a:hover{
+    color: #ffc107;
+}
+.media-width-fixel p i{
+    color: #ffc107;
+}
+.join-print{
+    margin-top: 10px;
+    
+}
+.join-print p{
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 180px;
+    color: #414c64;
+
+
+
+
+}
+.join-print h1{
+       
+    font-size: 16px;
+    font-weight: bold;
+    color: #444444;
+    padding-bottom: 12px;
+    text-align: center;
+}
+.print-join{
+    height: 40px;
+    width: 350px;
+    outline: 2px solid #414c64;
+
+    border-radius: 50px;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.print-join button{
+    height: 40px;
+    
+  
+    border-radius: 50px;
+    /* background-color: #f7f8fa; */
+    background: #ffc107;
+    color: #fff;
+    border: none;
+    /* margin-left: 280px; */
+
+
+}
+.print-join input{
+    width: 272px;
+    border: none;
+}
+.print-join button:hover{
+     background: #f7cd52;
+
+}
+.container13 p a{
+    text-decoration: none;
+color: red;
+}
+.container14{
+    height: 100px;
+    width: 1300px;
+
+}
+.container14{
+    display: flex;
+    justify-content: space-between;
+}
+.container15{
+     display: flex;
+}
+.two-get-up{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    
+    position: relative;
+    margin-right: 10px;
+    background: #e1e4ec;
+    /* opacity: 0.3; */
+
+} 
+.two-get-up i{
+        position: absolute;
+        bottom: 7px;
+        left: 8px;
+        color: #5f6f92;
+       
+ 
+}
+.two-get-up:hover {
+    background: #ffc107;
+}
+ 
+
+
 
 
 
